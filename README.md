@@ -22,9 +22,7 @@ Data Validation and Analysis: Take a step further into data analysis as I valida
 From connecting to databases using SQLAlchemy, executing SQL queries with ease, to performing complex CRUD operations via the SQLAlchemy ORM, this repository equips you with practical skills needed to interact with databases effectively. Furthermore, it extends into the world of web development, teaching you to build APIs with Flask and return JSONified query results to clients.
 
 
-**A Personal Showcase**
-
-Everything you see here is a reflection of my hands-on work, a representation of hours spent learning, coding, and refining my skills. 
+**Conclusion**
 
 Feel free to explore, experiment, and add any further analysis. If you have questions, insights, or simply want to discuss the exciting world of data, don't hesitate to connect.
 
