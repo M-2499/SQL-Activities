@@ -24,6 +24,8 @@ From connecting to databases using SQLAlchemy, executing SQL queries with ease, 
 
 **Conclusion**
 
+By utilizing different tools and applications, I am able to continue to enhance my analytical skills and statistical modeling.
+
 Feel free to explore, experiment, and add any further analysis. If you have questions, insights, or simply want to discuss the exciting world of data, don't hesitate to connect.
 
 
